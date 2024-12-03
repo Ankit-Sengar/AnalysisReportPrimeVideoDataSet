@@ -29,3 +29,5 @@ Steps Used for the PrimeVideoDataAnalysis
 	c. 2 KPI showing the Highest and Lowest IMDB score achieved by the movies hosted on prime.
 	d. Filter to filter the visuals on the basis of year range.
 
+![AnalysisReportPrimeVideoDataSetDashBoard](https://github.com/user-attachments/assets/09d31f5b-b999-4e5b-94b7-04a9b64b7147)
+
